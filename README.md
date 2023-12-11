@@ -1,2 +1,9 @@
 # TDA_Final_Project
-A collection of work presented as a final project in MAT 690 at NAU
+This project was a presented as a final project at Northern Arizona University in a class titled "Topological Data Analysis".
+**Data**
+
+**Code**
+
+**Paper**
+
+**Presentation**
