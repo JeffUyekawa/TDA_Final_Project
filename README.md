@@ -20,12 +20,10 @@ We have included the following code:
 2. Polio_Rips.py - This code was not used in the final presentation, however it was a crucial first step in exploring our data using TDA methods. In this file we do various forms of exploration on our data in the similarity space with Rips Filtrations. Countries are compared
 using various metrics and vaccination rate is studied by each parent location.
 3.Sublevel_map.py - In this code we create a sublevel set image filtration on a world map colored by vaccination value. This method allows for the creators of persistent homology classes to be traced back to points on the world map.
-4. 
+4. Alpha Complex.ipynb - This code explores the data set using alpha complexes.
+5. Weighted Alpha Complex.ipynb - This code repeats exploration using weighted alpha complexes.
 ## **Paper**
 We have included our final research paper that outlines our methods and findings.
 
 ## **Presentation**
 We included the slides for our final presentation.
-
-## **Division of Labor**
-This document outlines the way work was divided among group members.
