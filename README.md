@@ -11,7 +11,7 @@ for each country's GDP, life expectancy, median age, latitude, and longitude to 
 a "similarity space" upon which we would compute persistent homology. For the final 
 scaled data set, we also scaled each column with min/max scaling and dropped all null values. 
 
-In the "cleaned data" folder, we utilized the scaled polio data for our alpha complex and rips filtration exploration, and we used the original polio dataset for the sublevel set filtration.
+In the "cleaned" folder, we utilized the scaled polio data for our alpha complex and rips filtration exploration, and we used the original polio dataset for the sublevel set filtration.
 Various uncleaned datasets are included that were used in the data cleaning and preparation phase.
 ## **Code**
 We have included the following code:
