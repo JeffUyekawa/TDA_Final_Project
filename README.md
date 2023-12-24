@@ -22,7 +22,7 @@ using various metrics and vaccination rate is studied by each parent location.
 3. Sublevel_map.py - In this code we create a sublevel set image filtration on a world map colored by vaccination value. This method allows for the creators of persistent homology classes to be traced back to points on the world map.
 4. Alpha Complex.ipynb - This code explores the data set using alpha complexes.
 5. Weighted Alpha Complex.ipynb - This code repeats exploration using weighted alpha complexes.
-## **Paper**
+## **Writeup**
 We have included our final research paper that outlines our methods and findings.
 
 ## **Presentation**
